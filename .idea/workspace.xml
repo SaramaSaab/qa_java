@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b64ad64-6dd9-4043-ad3c-a710bd0c6ccf" name="Changes" comment="" />
+    <list default="true" id="0b64ad64-6dd9-4043-ad3c-a710bd0c6ccf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCat.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,32 +33,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.TestCat.executor": "Run",
-    "JUnit.TestCat.testGetFoodCat.executor": "Run",
-    "JUnit.TestFeline.executor": "Run",
-    "JUnit.TestFeline.testFelineEatMeat.executor": "Run",
-    "JUnit.TestFeline.testFelineGetFamily.executor": "Run",
-    "JUnit.TestLion.executor": "Run",
-    "JUnit.TestLion.testCountKit.executor": "Run",
-    "JUnit.TestLion.testKittensCount.executor": "Run",
-    "JUnit.TestLion.testLionDoesHaveMane.executor": "Run",
-    "JUnit.TestLion.testLionGetFood.executor": "Run",
-    "JUnit.TestLionFood.executor": "Run",
-    "JUnit.TestLionGetFood.executor": "Run",
-    "JUnit.TestLionGetSexMaleFemale.executor": "Run",
-    "JUnit.TestLionKittens.executor": "Run",
-    "JUnit.TestLionSexWithExpected.executor": "Run",
-    "JUnit.TestLionSexWithExpected.testSexNoName.executor": "Run",
-    "Maven.untitled [org.jacoco:jacoco-maven-plugin:0.8.7:report].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/viktorygorlachuk/Desktop/projects/qa_java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TestCat.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestCat.testGetFoodCat.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestFeline.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestFeline.testFelineEatMeat.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestFeline.testFelineGetFamily.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.testCountKit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.testKittensCount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.testLionDoesHaveMane.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.testLionGetFood.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionFood.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionGetFood.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionGetSexMaleFemale.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionKittens.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionSexWithExpected.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionSexWithExpected.testSexNoName.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.untitled [org.jacoco:jacoco-maven-plugin:0.8.7:report].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/viktorygorlachuk/Desktop/projects/qa_java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TestCat.testGetFoodCat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="untitled" />

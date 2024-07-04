@@ -15,7 +15,6 @@ public class TestCat {
 
     @Mock
     Feline feline;
-    Predator predator;
     //создали болванку переменной, которая будет заглушкой
 
     @Test
