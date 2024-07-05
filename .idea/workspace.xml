@@ -5,10 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b64ad64-6dd9-4043-ad3c-a710bd0c6ccf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFeline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.example/Animal.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.example/Animal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.example/Animal.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.example/Animal.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.example/Lion.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.example/Lion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.example/Lion.java.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.example/Lion.java.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.example/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/com.example/index.source.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/com.example/index.source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco-sessions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/jacoco/jacoco.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Lion.TestLionGetFood.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Lion.TestLionGetFood.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Lion.TestLionGetSexMaleFemale.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Lion.TestLionGetSexMaleFemale.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Lion.TestLionKittens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Lion.TestLionKittens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Lion.TestLionSexWithExpected.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Lion.TestLionSexWithExpected.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Lion.TestLionGetFood.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Lion.TestLionGetFood.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Lion.TestLionGetSexMaleFemale.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Lion.TestLionGetSexMaleFemale.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Lion.TestLionKittens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Lion.TestLionKittens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Lion.TestLionSexWithExpected.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Lion.TestLionSexWithExpected.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestCat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestCat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestFeline.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestFeline.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestCat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestCat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestFeline.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestFeline.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
