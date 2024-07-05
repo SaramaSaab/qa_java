@@ -24,8 +24,8 @@ public class TestFeline {
     public void testFelineEatMeat() throws Exception{
         List<String> expected = List.of("Животные", "Птицы", "Рыба");
         List<String> actual = feline.eatMeat();
-        System.out.println("Ожидаемое значение " + expected);
-        System.out.println("Фактическое значение " + actual);
+        System.out.println("Тест testFelineEatMeat. Ожидаемое значение " + expected);
+        System.out.println("Тест testFelineEatMeat. Фактическое значение " + actual);
         assertEquals(expected, actual);
     }
 }
