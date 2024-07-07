@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b64ad64-6dd9-4043-ad3c-a710bd0c6ccf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestFeline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestFeline.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2iauHRKKDQJTQtGNrWcrHL0odNo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TestCat.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestCat.testGetFoodCat.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestFeline.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestFeline.testFelineEatMeat.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestFeline.testFelineGetFamily.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.testCountKit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.testKittensCount.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.testLionDoesHaveMane.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLion.testLionGetFood.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionFood.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionGetFood.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionGetSexMaleFemale.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionKittens.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionSexWithExpected.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLionSexWithExpected.testSexNoName.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.untitled [org.jacoco:jacoco-maven-plugin:0.8.7:report].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/viktorygorlachuk/Desktop/projects/qa_java&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="TestCat.testGetFoodCat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestCat" />
+      <option name="METHOD_NAME" value="testGetFoodCat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFeline.testFelineEatMeat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFeline" />
+      <option name="METHOD_NAME" value="testFelineEatMeat" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFeline.testFelineGetFamily" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFeline" />
+      <option name="METHOD_NAME" value="testFelineGetFamily" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLionFood.testLionDoesHaveMane" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLionFood" />
+      <option name="METHOD_NAME" value="testLionDoesHaveMane" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLionSexWithExpected.testSexNoName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lion" />
+      <option name="MAIN_CLASS_NAME" value="lion.TestLionSexWithExpected" />
+      <option name="METHOD_NAME" value="testSexNoName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="qa_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="qa_java" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestFeline.testFelineEatMeat" />
+        <item itemvalue="JUnit.TestFeline.testFelineGetFamily" />
+        <item itemvalue="JUnit.TestCat.testGetFoodCat" />
+        <item itemvalue="JUnit.TestLionSexWithExpected.testSexNoName" />
+        <item itemvalue="JUnit.TestLionFood.testLionDoesHaveMane" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b64ad64-6dd9-4043-ad3c-a710bd0c6ccf" name="Changes" comment="" />
+      <created>1719740920610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719740920610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/qa_java$TestLionSexWithExpected_testSexNoName.ic" NAME="TestLionSexWithExpected.testSexNoName Coverage Results" MODIFIED="1720095861956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>lion.*</FILTER>
+    </SUITE>
+  </component>
+</project>
